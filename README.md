@@ -1,3 +1,3 @@
 # G Programming Language
 
-A new programming language... Fast as Assembly; High as Python
+A new programming language... Fast as Assembly; High as Python (No codes yet)
